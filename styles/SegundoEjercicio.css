@@ -1,0 +1,21 @@
+/* Global */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins:wght@700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif;
+}
+
+:root{
+   --blue: #1769aa;
+   --yellow: rgb(255, 196, 0);
+   --light-gray: #ddd;  
+   --gray: #aaa;
+   --dark-gray: #999;
+   --white: whitesmoke; 
+   --black: #333;
+}
+
+.bg{
+    background-color: var(--white);
+}
